@@ -6,6 +6,10 @@ A simple and interactive Mario animation built using HTML and CSS. Watch Mario r
 ## Description
 The **Mario-Animated-Game** is a lightweight animation project where Mario runs across the screen using keyframe animations in CSS. The character animation is designed to simulate the iconic Mario running scene, making use of multiple sprites to give a smooth transition effect. Hovering over Mario pauses the animation for an interactive experience.
 
+## Image
+![image](https://github.com/user-attachments/assets/316bcab4-ecec-4bef-991f-a6025a533c53)
+
+
 ## Installation
 To run this project locally, follow these steps:
 
